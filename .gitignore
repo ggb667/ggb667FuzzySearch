@@ -26,3 +26,6 @@ Thumbs.db
 
 # Others
 *.class
+
+# git
+.git-credentials
