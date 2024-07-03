@@ -1,0 +1,7 @@
+[user]
+    email = ggb667@gmail.com
+    name = ggb667
+[credential]
+    helper = store
+[safe]
+    directory = /home/developer/projects/ggb667FuzzySearch

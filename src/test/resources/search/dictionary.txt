@@ -1,0 +1,5 @@
+example|noun|3|A representative form or pattern
+cache|noun|1|A collection of items of the same type stored in a hidden or inaccessible place
+populator|noun|4|One who or that which populates
+syllable|noun|3|A unit of pronunciation having one vowel sound
+definition|noun|4|A statement of the exact meaning of a word
